@@ -1,5 +1,5 @@
 # Description
-It's a command line tool for converting score from 0 to 10 into respecive color from red(255,0,0) to green(0,255,0).
+It's a command line tool for converting score from 0 to 10 into respective color from red(255,0,0) to green(0,255,0).
 
 # Example
 ![image](https://user-images.githubusercontent.com/73939717/170843520-b2cb16a2-d201-4c17-b786-077428ebdf0e.png)
